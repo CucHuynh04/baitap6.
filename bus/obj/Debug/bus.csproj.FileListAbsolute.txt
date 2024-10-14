@@ -1,0 +1,15 @@
+D:\codeC\bus\bin\Debug\bus.dll.config
+D:\codeC\bus\bin\Debug\bus.dll
+D:\codeC\bus\bin\Debug\bus.pdb
+D:\codeC\bus\bin\Debug\dal.dll
+D:\codeC\bus\bin\Debug\EntityFramework.dll
+D:\codeC\bus\bin\Debug\EntityFramework.SqlServer.dll
+D:\codeC\bus\bin\Debug\dal.pdb
+D:\codeC\bus\bin\Debug\dal.dll.config
+D:\codeC\bus\bin\Debug\EntityFramework.xml
+D:\codeC\bus\bin\Debug\EntityFramework.SqlServer.xml
+D:\codeC\bus\obj\Debug\bus.csproj.AssemblyReference.cache
+D:\codeC\bus\obj\Debug\bus.csproj.CoreCompileInputs.cache
+D:\codeC\bus\obj\Debug\bus.csproj.Up2Date
+D:\codeC\bus\obj\Debug\bus.dll
+D:\codeC\bus\obj\Debug\bus.pdb

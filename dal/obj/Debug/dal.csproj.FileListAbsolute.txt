@@ -1,0 +1,12 @@
+D:\codeC\dal\bin\Debug\dal.dll.config
+D:\codeC\dal\bin\Debug\dal.dll
+D:\codeC\dal\bin\Debug\dal.pdb
+D:\codeC\dal\bin\Debug\EntityFramework.dll
+D:\codeC\dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\codeC\dal\bin\Debug\EntityFramework.xml
+D:\codeC\dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\codeC\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+D:\codeC\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+D:\codeC\dal\obj\Debug\dal.csproj.Up2Date
+D:\codeC\dal\obj\Debug\dal.dll
+D:\codeC\dal\obj\Debug\dal.pdb
